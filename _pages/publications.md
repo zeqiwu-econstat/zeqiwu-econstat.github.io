@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications & Projects
-description: Publications and submitted papers.
+title: Publications & Working Papers
+description: 
 nav: true
 nav_order: 2
 ---
